@@ -55,7 +55,7 @@ def find_living_area(soup):
         value = format_dimensions(
             div.find('span').find_next_sibling('span').text)
     else:
-        value = '??'
+        value = None
     if value == find_lot_dimensions(soup):
         div = soup.find('div', text='Building dimensions')
         if div is not None:
