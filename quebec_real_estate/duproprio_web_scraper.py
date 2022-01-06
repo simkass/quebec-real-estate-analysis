@@ -36,7 +36,7 @@ def find_style(soup):
     if div is not None:
         return div.find_next_sibling('div').find_next_sibling('div').text
     else:
-        return '??'
+        return None
 
 
 def find_lot_dimensions(soup):
@@ -45,7 +45,7 @@ def find_lot_dimensions(soup):
     if div is not None:
         return format_dimensions(div.find('span').find_next_sibling('span').text)
     else:
-        return '??'
+        return None
 
 
 def find_living_area(soup):
@@ -61,7 +61,7 @@ def find_living_area(soup):
         if div is not None:
             return format_dimensions((div.find_next_sibling('div').find_next_sibling('div').text))
         else:
-            return '??'
+            return None
     return value
 
 
@@ -71,7 +71,7 @@ def find_icon_description(soup, parameter):
     for desc in descriptions:
         if parameter in desc.text:
             return format(desc.find('span').text)
-    return '??'
+    return None
 
 
 def find_location(soup):
@@ -79,7 +79,7 @@ def find_location(soup):
     if div is not None:
         return format_location((div.find('a').text))
     else:
-        return '??'
+        return None
 
 
 def find_listing_date(soup):
@@ -90,7 +90,7 @@ def find_listing_date(soup):
             date = meta['content']
             date = date.split(photo_link)[1].split('/')
             return date[0]
-    return '??'
+    return None
 
 
 def find_year_of_construction(soup):
@@ -98,7 +98,7 @@ def find_year_of_construction(soup):
     if div is not None:
         return format((div.find_next_sibling('div').find_next_sibling('div').text))
     else:
-        return '??'
+        return None
 
 
 def find_municipal_eval(soup):
@@ -106,7 +106,7 @@ def find_municipal_eval(soup):
     if div is not None:
         return format((div.find_next_sibling('div').find_next_sibling('div').text))
     else:
-        return '??'
+        return None
 
 
 def find_price(soup):
@@ -114,7 +114,7 @@ def find_price(soup):
     if div is not None:
         return format_price(div.next_element)
     else:
-        return '??'
+        return None
 
 
 def append_to_csv(filename, page_content):
