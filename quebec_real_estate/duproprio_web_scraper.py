@@ -3,7 +3,7 @@ import os.path
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from config import URL_base, URL_end
+from config import URL_base, URL_end, home_subtypes
 
 
 def format(text):
@@ -30,6 +30,14 @@ def format_price(text):
     else:
         return text
 
+def find_subtype(URL):
+    i = 0
+    while i < len(home_subtypes[0]):
+        if home_subtypes[0][i] in URL:
+            return home_subtypes[1][i]
+        else:
+            i += 1
+    return 'Unknown'
 
 def find_style(soup):
     div = soup.find('div', text='Property Style')
@@ -121,9 +129,9 @@ def append_to_csv(filename, page_content):
     df = pd.DataFrame([page_content])
 
     if os.path.isfile(filename):
-        df.to_csv(filename, mode='a', header=False)
+        df.to_csv(filename, mode='a', header=False, index=False)
     else:
-        df.to_csv(filename)
+        df.to_csv(filename, index=False)
 
 
 def parse_page_listing_urls(filename, page, page_num):
@@ -152,6 +160,7 @@ def parse_listing(URL, filename):
         soup = BeautifulSoup(page.content, 'html.parser')
 
         page_content = {
+            'subtype': find_subtype(URL),
             'style': find_style(soup),
             'living_area': find_living_area(soup),
             'lot_dimensions': find_lot_dimensions(soup),
