@@ -3,7 +3,7 @@ import os.path
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from config import URL_base, URL_end, home_subtypes
+from config import URL_base, URL_end
 
 
 def format(text):
@@ -30,11 +30,11 @@ def format_price(text):
     else:
         return text
 
-def find_subtype(URL):
+def find_subtype(URL, subtypes):
     i = 0
-    while i < len(home_subtypes[0]):
-        if home_subtypes[0][i] in URL:
-            return home_subtypes[1][i]
+    while i < len(subtypes[0]):
+        if subtypes[0][i] in URL:
+            return subtypes[1][i]
         else:
             i += 1
     return 'Unknown'
@@ -145,22 +145,22 @@ def parse_page_listing_urls(filename, page, page_num):
     print('Parsed ' + str(links) + ' listing URLs from page ' + str(page_num))
 
 
-def parse_listing_urls(filename, start_page = 1, end_page = 12800):
+def parse_listing_urls(filename, url_base = URL_base, start_page = 1, end_page = 12800):
     for i in range(start_page, end_page):
-        URL = URL_base + str(i) + URL_end
+        URL = url_base + str(i) + URL_end
         page = requests.get(URL)
 
         if page.status_code == 200:
             parse_page_listing_urls(filename, page, i)
 
 
-def parse_listing(URL, filename):
+def parse_listing(URL, subtypes, filename):
     page = requests.get(URL)
     if page.status_code == 200:
         soup = BeautifulSoup(page.content, 'html.parser')
 
         page_content = {
-            'subtype': find_subtype(URL),
+            'subtype': find_subtype(URL, subtypes),
             'style': find_style(soup),
             'living_area': find_living_area(soup),
             'lot_dimensions': find_lot_dimensions(soup),
@@ -177,6 +177,6 @@ def parse_listing(URL, filename):
         append_to_csv(filename, page_content)
 
 
-def parse_listings(URLs_filename, output_filename):
+def parse_listings(URLs_filename, subtypes, output_filename):
     for url in open(URLs_filename, 'r'):
-        parse_listing(url[:-1], output_filename)
+        parse_listing(url[:-1], subtypes, output_filename)
