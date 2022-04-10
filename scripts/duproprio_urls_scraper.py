@@ -1,11 +1,11 @@
-# ------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------
 # duproprio_urls_scraper.py
-# Web scraping script to acquire listing urls from duproprio.com
-# ------------------------------------------------------------------
+# Web scraping script to acquire sold listing urls from duproprio.com.
+# # --------------------------------------------------------------------------------------------------
 
 import requests
-from config import url_end
 from bs4 import BeautifulSoup
+from config import url_end
 
 
 def scrape_listings_page(filename: str, page: requests.Response) -> int:
