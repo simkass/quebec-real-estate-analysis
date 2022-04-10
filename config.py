@@ -3,18 +3,21 @@ home_url_base = 'https://duproprio.com/en/search/list?search=true&type%5B0%5D=ho
 condo_url_base = 'https://duproprio.com/en/search/list?search=true&subtype%5B0%5D=14&subtype%5B1%5D=12&subtype%5B2%5D=3&is_sold=1&with_builders=1&parent=1&pageNumber='
 url_end = '&sort=-published_at'
 
+# Data columns of values to parse in page
+data_columns = ['subtype', 'style', 'living_area', 'lot_dimensions', 'bedrooms', 'bathrooms', 'levels',
+                'location', 'listing_date', 'year_of_construction', 'municipal_eval', 'price']
 
-
-######
+# Subtypes html-tag/value pairs
 home_subtypes = [['bungalow', 'semi-detached', 'hab-2-storey',
-                 '1-12-storey', 'split-level', 'townhouse', 
-                 'country-home', 'mobile-home', 'acreage-hobby-farm-ranch', 
-                 'villa', 'raised-bungalow', '3-storey', 'manufactured-home', 
-                 '4-storey', 'hab-misc', 'bi-level', 'bi-generation'],
+                 '1-12-storey', 'split-level', 'townhouse',
+                  'country-home', 'mobile-home', 'acreage-hobby-farm-ranch',
+                  'villa', 'raised-bungalow', '3-storey', 'manufactured-home',
+                  '4-storey', 'hab-misc', 'bi-level', 'bi-generation'],
                  ['Bungalow', 'Semi-detached', '2 Storey',
-                 '1 1/2 Storey', 'Split Level', 'Townhouse', 'Country Home', 
-                 'Mobile home', 'Acreage / Hobby Farm / Ranch', 'Villa', 
-                 'Raised Bungalow', '3 Storey', 'Manufactured home', '4 Storey', 
-                 'Misc.', 'Bi-Level', 'Bi-generation']]
+                 '1 1/2 Storey', 'Split Level', 'Townhouse', 'Country Home',
+                  'Mobile home', 'Acreage / Hobby Farm / Ranch', 'Villa',
+                  'Raised Bungalow', '3 Storey', 'Manufactured home', '4 Storey',
+                  'Misc.', 'Bi-Level', 'Bi-generation']]
 
-condo_subtypes = [['hab-condominium', 'hab-loft', 'hab-penthouse'], ['Condominium', 'Loft', 'Penthouse']]
+condo_subtypes = [['hab-condominium', 'hab-loft',
+                   'hab-penthouse'], ['Condominium', 'Loft', 'Penthouse']]
