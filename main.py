@@ -1,8 +1,12 @@
-from quebec_real_estate.duproprio_web_scraper import parse_listing_urls, parse_listings
-
-def main():
-    # parse_listing_urls('data/raw/listings_URLs.txt', start_page=10438)
-    parse_listings('data/raw/listings_URLs.txt', 'data/raw/raw_listings.csv')
+from scripts.duproprio_urls_scraper import scrape_listing_urls
+from scripts.dupropio_listings_scraper import scrape_listings
+import config
 
 if __name__ == '__main__':
-    main()
+    # Scrape Family Home Listings (269 pages on Duproprio)
+    scrape_listing_urls('../data/raw/home_listings_urls.csv', config.home_url_base, 1, 269)
+    scrape_listings(config.home_subtypes, '../data/raw/home_raw_listings.csv', 'test.csv')
+
+    # Scrape Condo Listings (122 pages on Duproprio)
+    scrape_listing_urls('../data/raw/condo_listings_urls.csv', config.home_url_base, 1, 122)
+    scrape_listings(config.home_subtypes, '../data/raw/condo_raw_listings.csv', 'test.csv')
