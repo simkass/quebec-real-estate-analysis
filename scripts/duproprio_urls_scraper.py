@@ -22,7 +22,7 @@ def scrape_listings_page(filename: str, page: requests.Response) -> int:
 
     links = 0
     for a in soup.find_all('a', href=True, class_='search-results-listings-list__item-image-link'):
-        with open(filename, 'a') as f:
+        with open(filename, 'a+') as f:
             f.write(str(a['href']) + '\n')
         links += 1
 
