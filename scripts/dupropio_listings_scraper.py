@@ -9,9 +9,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from scripts.duproprio_web_scraper_old import find_lot_dimensions
-
-
 def format(value: str):
     return value.replace('\n', '').replace('$', '').replace(',', '').replace(' ', '')
 
@@ -52,7 +49,7 @@ def parse_living_area(soup: BeautifulSoup):
     div = soup.find('div', class_='listing-main-characteristics__item-dimensions')
     value = format_dimensions(div.find('span').find_next_sibling('span').text) if div is not None else None
 
-    if value == find_lot_dimensions(soup):
+    if value == parse_lot_dimensions(soup):
         div = soup.find('div', text='Building dimensions')
         value = format_dimensions(div.find_next_sibling('div').find_next_sibling('div').text) if div is not None else None
 
