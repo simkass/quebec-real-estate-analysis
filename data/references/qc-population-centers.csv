@@ -1,0 +1,271 @@
+Rank,Name,Size group[2],Population (2016)[2],Population (2011)[2],% Change[2]
+1,Montreal,Large urban,"3,519,595","3,387,653",+3.9%
+2,Ottawa - Gatineau (QC/ON),Large urban,"989,567","945,592",+4.7%
+3,Quebec City,Large urban,"705,103","681,804",+3.4%
+4,Sherbrooke,Large urban,"139,565","133,673",+4.4%
+5,Trois-Rivières,Large urban,"114,203","112,626",+1.4%
+6,Chicoutimi - Jonquière,Large urban,"104,222","104,589",-0.4%
+7,Saint-Jean-sur-Richelieu,Medium,"84,685","81,802",+3.5%
+8,Saint-Jérôme,Medium,"77,146","69,598",+10.8%
+9,Châteauguay,Medium,"71,164","66,445",+7.1%
+10,Drummondville,Medium,"68,601","65,341",+5.0%
+11,Granby,Medium,"59,691","57,351",+4.1%
+12,Beloeil,Medium,"50,845","48,688",+4.4%
+13,Saint-Hyacinthe,Medium,"50,032","47,289",+5.8%
+14,Joliette,Medium,"45,508","42,850",+6.2%
+15,Victoriaville,Medium,"44,735","41,925",+6.7%
+16,Salaberry-de-Valleyfield,Medium,"39,048","38,323",+1.9%
+17,Shawinigan,Medium,"38,211","39,427",-3.1%
+18,Rimouski,Medium,"36,942","35,437",+4.2%
+19,Sorel,Medium,"36,088","35,770",+0.9%
+20,Saint-Georges,Small,"26,921","24,940",+7.9%
+21,Val-d'Or,Small,"25,541","25,023",+2.1%
+22,Rouyn-Noranda,Small,"23,504","23,137",+1.6%
+23,Sept-Îles,Small,"22,218","23,028",-3.5%
+24,Hudson,Small,"21,419","20,648",+3.7%
+25,Alma,Small,"21,406","19,965",+7.2%
+26,Magog,Small,"20,830","19,997",+4.2%
+27,Varennes,Small,"20,575","20,300",+1.4%
+28,Rivière-du-Loup,Small,"17,973","17,747",+1.3%
+29,Les Coteaux,Small,"17,396","15,694",+10.8%
+30,Buckingham,Small,"16,685","15,685",+6.4%
+31,Thetford Mines,Small,"16,174","16,440",-1.6%
+32,L'Assomption,Small,"15,906","15,154",+5.0%
+33,Port-Alfred-Bagotville,Small,"13,865","13,817",+0.3%
+34,Laurentides,Small,"12,710","9,834",+29.2%
+35,Cowansville,Small,"11,809","10,947",+7.9%
+36,Hawkesbury (QC/ON),Small,"11,715","11,894",-1.5%
+37,Hauterive,Small,"11,549","11,844",-2.5%
+38,Dolbeau,Small,"11,388","11,476",-0.8%
+39,Sainte-Agathe-des-Monts -Val-David,Small,"11,108","10,567",+5.1%
+40,Sainte-Marie,Small,"11,083","10,409",+6.5%
+41,Sainte-Anne-des-Plaines,Small,"10,865","10,917",-0.5%
+42,Matane,Small,"10,787","10,890",-0.9%
+43,Lavaltrie,Small,"10,767","10,380",+3.7%
+44,Campbellton (QC/NB),Small,"10,716","11,990",-10.6%
+45,Saint-Canut,Small,"10,643","9,118",+16.7%
+46,Lachute,Small,"10,082","10,121",-0.4%
+47,Amos,Small,"10,005","9,862",+1.5%
+48,Baie-Comeau,Small,"9,610","9,917",-3.1%
+49,Saint-Amable,Small,"9,486","8,295",+14.4%
+50,Saint-Augustin,Small,"9,399","7,457",+26.0%
+51,Montmagny,Small,"9,041","9,191",-1.6%
+52,Marieville,Small,"8,891","8,238",+7.9%
+53,Donnacona,Small,"8,418","7,328",+14.9%
+54,Roberval,Small,"8,204","8,540",-3.9%
+55,Saint-Sauveur-des-Monts,Small,"7,849","7,599",+3.3%
+56,La Tuque,Small,"7,751","8,062",-3.9%
+57,Mont-Laurier,Small,"7,644","7,569",+1.0%
+58,L'Épiphanie,Small,"7,225","7,090",+1.9%
+59,Plessisville,Small,"7,195","7,309",-1.6%
+60,Pointe-du-lac,Small,"7,104","6,404",+10.9%
+61,Saint-Félicien,Small,"7,096","7,111",-0.2%
+62,Angers,Small,"6,973","6,625",+5.3%
+63,Saint-Rémi,Small,"6,891","5,535",+24.5%
+64,Chibougamau,Small,"6,862","6,948",-1.2%
+65,Farnham,Small,"6,731","6,275",+7.3%
+66,Coaticook,Small,"6,524","6,780",-3.8%
+67,Pont-Rouge,Small,"6,239","5,711",+9.2%
+68,Contrecoeur,Small,"6,236","4,311",+44.7%
+69,Beaupré,Small,"5,889","5,705",+3.2%
+70,Sainte-Adèle,Small,"5,786","5,592",+3.5%
+71,Nicolet,Small,"5,669","5,212",+8.8%
+72,Lac-Mégantic,Small,"5,647","5,954",-5.2%
+73,Port-Cartier,Small,"5,609","5,704",-1.7%
+74,Mont-Joli,Small,"5,604","5,569",+0.6%
+75,Saint-Jovite,Small,"5,515","5,464",+0.9%
+76,Acton Vale,Small,"5,399","5,133",+5.2%
+77,Louiseville,Small,"5,396","5,537",-2.5%
+78,Val-des-Sources,Small,"5,205","5,401",-3.6%
+79,Rawdon,Small,"5,188","4,922",+5.4%
+80,Windsor,Small,"5,064","4,970",+1.9%
+81,Baie-Saint-Paul,Small,"4,868","4,323",+12.6%
+82,Berthierville,Small,"4,715","4,495",+4.9%
+83,Napierville,Small,"4,708","4,192",+12.3%
+84,La Sarre,Small,"4,570","4,876",-6.3%
+85,Amqui,Small,"4,511","4,657",-3.1%
+86,Lac-Alouette,Small,"4,473","3,970",+12.7%
+87,Verchères,Small,"4,429","4,256",+4.1%
+88,Princeville,Small,"4,384","3,935",+11.4%
+89,Terrasse-des-Pins,Small,"4,268","3,880",+10.0%
+90,Sainte-Martine,Small,"3,931","3,706",+6.1%
+91,La Pocatière,Small,"3,928","4,052",-3.1%
+92,Sainte-Brigitte-de-Laval,Small,"3,917","2,755",+42.2%
+93,Bromont,Small,"3,895","3,055",+27.5%
+94,Saint-Césaire,Small,"3,815","3,522",+8.3%
+95,Maniwaki,Small,"3,778","3,865",-2.3%
+96,Beauceville,Small,"3,769","3,652",+3.2%
+97,Saint-Joseph-de-Beauce,Small,"3,695","3,360",+10.0%
+98,Rigaud,Small,"3,613","2,707",+33.5%
+99,La Malbaie,Small,"3,520","3,868",-9.0%
+100,Saint-Germain-de-Grantham,Small,"3,485","3,098",+12.5%
+101,East Angus,Small,"3,472","3,540",-1.9%
+102,Waterloo,Small,"3,401","3,464",-1.8%
+103,Saint-Apollinaire,Small,"3,335","2,646",+26.0%
+104,Filion,Small,"3,334","2,213",+50.7%
+105,Black Lake,Small,"3,298","3,326",-0.8%
+106,Sainte-Anne-des-Monts,Small,"3,277","3,276",+0.0%
+107,Sainte-Julienne,Small,"3,263","3,192",+2.2%
+108,Saint-Raymond,Small,"3,227","3,292",-2.0%
+109,Warwick,Small,"3,200","3,305",-3.2%
+110,Trois-Pistoles,Small,"3,058","3,253",-6.0%
+111,Richmond,Small,"3,046","3,125",-2.5%
+112,Crabtree,Small,"3,004","2,428",+23.7%
+113,Saint-Pie,Small,"2,980","2,779",+7.2%
+114,Saint-Félix-de-Valois,Small,"2,978","2,793",+6.6%
+115,Malartic,Small,"2,972","3,015",-1.4%
+116,Chisasibi,Small,"2,967",42,"+6,964.3%"
+117,Havre-Saint-Pierre,Small,"2,925","2,851",+2.6%
+118,Saint-Agapit,Small,"2,906","2,261",+28.5%
+119,Domaine-Ouellet,Small,"2,894","1,988",+45.6%
+120,Mistissini,Small,"2,869","3,040",-5.6%
+121,Shannon,Small,"2,846","2,840",+0.2%
+122,Fossambault-sur-le-Lac,Small,"2,769","2,151",+28.7%
+123,Clermont,Small,"2,765","2,805",-1.4%
+124,Bromptonville,Small,"2,725","2,584",+5.5%
+125,Saint-Gabriel,Small,"2,664","2,849",-6.5%
+126,Melocheville,Small,"2,621","2,517",+4.1%
+127,Gaspé,Small,"2,609","2,823",-7.6%
+128,Saint-Joseph-de-Lanoraie,Small,"2,576","2,465",+4.5%
+129,Bedford,Small,"2,550","2,669",-4.5%
+130,Saint-Anselme,Small,"2,541","2,097",+21.2%
+131,Thurso,Small,"2,533","2,198",+15.2%
+132,Huntingdon,Small,"2,525","2,538",-0.5%
+133,Lac-Lapierre,Small,"2,480","2,435",+1.8%
+134,Saint-Pascal,Small,"2,471","2,447",+1.0%
+135,Ville Lambert,Small,"2,443","2,277",+7.3%
+136,Cabano,Small,"2,438","2,470",-1.3%
+137,Neuville,Small,"2,435",2015,+20.8%
+138,Évain,Small,"2,426","2,073",+17.0%
+139,Sainte-Claire,Small,"2,389","2,032",+17.6%
+140,Saint-Tite,Small,"2,381","2,276",+4.6%
+141,Fort-Coulonge,Small,"2,359","2,235",+5.5%
+142,Forestville,Small,"2,333","2,496",-6.5%
+143,Saint-Prosper,Small,"2,319","2,195",+5.6%
+144,Roxton Pond,Small,"2,301","2,265",+1.6%
+145,Fermont,Small,"2,288","2,707",-15.5%
+146,Chandler,Small,"2,285","2,273",+0.5%
+147,Saint-Honoré,Small,"2,265","1,966",+15.2%
+148,Senneterre,Small,"2,239","2,370",-5.5%
+149,Les Cèdres,Small,"2,233","2,138",+4.4%
+150,Disraeli,Small,"2,212","2,375",-6.9%
+151,Saint-Marc-des-Carrières,Small,"2,134","1,926",+10.8%
+152,Saint-Jacques,Small,"2,126","2,184",-2.7%
+153,Métabetchouan,Small,"2,123","2,209",-3.9%
+154,Ville-Marie,Small,"2,113","2,161",-2.2%
+155,Betsiamites,Small,"2,105","2,251",-6.5%
+156,Cap-aux-Meules,Small,"2,028","1,952",+3.9%
+157,Lebel-sur-Quévillon,Small,"2,015","1,964",+2.6%
+158,Portneuf,Small,"2,004","1,994",+0.5%
+159,Sainte-Madeleine,Small,"1,959","2,050",-4.4%
+160,Normandin,Small,"1,910","1,970",-3.0%
+161,Saint-André-Avellin,Small,"1,903","1,876",+1.4%
+162,New Richmond,Small,"1,901","1,940",-2.0%
+163,Laurier-Station,Small,"1,894","2,016",-6.1%
+164,Stoneham,Small,"1,854","1,522",+21.8%
+165,Waskaganish,Small,"1,839","1,899",-3.2%
+166,East Broughton,Small,"1,832","1,835",-0.2%
+167,Valcourt,Small,"1,806","2,003",-9.8%
+168,Dégelis,Small,"1,798","1,874",-4.1%
+169,Lac-Etchemin,Small,"1,782","1,685",+5.8%
+170,Saint-Liboire,Small,"1,775","1,760",+0.9%
+171,Saint-Bruno,Small,"1,756","1,681",+4.5%
+172,Saint-Sulpice,Small,"1,753","1,867",-6.1%
+173,Saint-Henri-de-Lévis,Small,"1,735","1,669",+4.0%
+174,Ormstown,Small,"1,730","1,724",+0.3%
+175,Ferme-Neuve,Small,"1,706","1,785",-4.4%
+176,Saint-Jean-Baptiste,Small,"1,703","1,745",-2.4%
+177,Price,Small,"1,679","1,592",+5.5%
+178,Saint-Ambroise,Small,"1,678","1,681",-0.2%
+179,Gentilly,Small,"1,673","1,756",-4.7%
+180,Val-Maher,Small,"1,668","1,661",+2.3%
+181,Saint-Ambroise-de-Kildare,Small,"1,655","1,655",+0.0%
+182,Manawan,Small,"1,648","1,639",+0.5%
+183,Sainte-Catherine-de-la-Jacques-Cartier,Small,"1,633","1,107",+47.5%
+184,L'Ange-Gardien,Small,"1,585","1,311",+20.9%
+185,Saint-Martin,Small,"1,582","1,654",-4.4%
+186,Danville,Small,"1,577","1,852",-14.8%
+187,Alençon,Small,"1,562","1,590",-1.8%
+188,Saint-Michel,Small,"1,558","1,319",+18.1
+189,Saint-Alexis-des-Monts,Small,"1,546","1,601",-3.4%
+190,Saint-Gédéon,Small,"1,542","1,553",-0.7%
+191,Domaine-C.-L.-C.,Small,"1,521","1,367",+11.3%
+192,Grande-Rivière,Small,"1,517","1,381",+9.8%
+193,LeBlanc,Small,"1,513","1,035",+46.2%
+194,Château-Richer,Small,"1,503","1,377",+9.2%
+195,Saint-Charles,Small,"1,482","1,300",+14.0%
+196,Rougemont,Small,"1,481","1,500",-1.3%
+197,Stanstead,Small,"1,475","1,370",+7.7%
+198,Kingsey Falls,Small,"1,452","1,448",+0.3%
+199,Bonaventure,Small,"1,439","1,532",-6.1%
+200,Brownsburg,Small,"1,425","1,461",-2.5%
+201,Godefroy,Small,"1,410","1,155",+22.1%
+202,Saint-Jean-Port-Joli,Small,"1,407","1,447",-2.8%
+203,Obedjiwan,Small,"1,404",735,+91.0%
+204,Sainte-Croix,Small,"1,401","1,274",+10.0%
+205,Saint Grégoire,Small,"1,400","1,364",+2.6%
+206,Matagami,Small,"1,396","1,454",-4.0%
+207,Saint-Thomas,Small,"1,395","1,354",+3.0%
+208,Saint-Basile-Sud,Small,"1,387","1,221",+13.6%
+209,Saint-Éphrem-de-Tring,Small,"1,385","1,434",-3.4%
+210,Linière,Small,"1,385","1,493",-7.2%
+211,Saint-Roch-de-l'Achigan,Small,"1,373","1,383",-0.7%
+212,Maskinongé,Small,"1,368","1,271",+7.6%
+213,Maliotenam,Small,"1,363","1,216",+12.1%
+214,Témiscaming,Small,"1,361","1,299",+4.8%
+215,Kuujjuaq,Small,"1,353","1,187",+14.0%
+216,Les Escoumins,Small,"1,339","1,302",+2.8%
+217,Saint-Léonard-d'Aston,Small,"1,336","1,264",+5.7%
+218,Sainte-Thècle,Small,"1,333","1,257",+6.0%
+219,Chapais,Small,"1,318","1,417",-7.0%
+220,Inukjuak,Small,"1,312",5,"+26,140.0%"
+221,Macamic,Small,"1,307","1,289",+1.4%
+222,Saint-Alexandre,Small,"1,304","1,207",+8.0%
+223,Lacolle,Small,"1,288","1,271",+1.3%
+224,Vallée-Jonction,Small,"1,268","1,254",+1.1%
+225,Oka,Small,"1,254","1,309",-4.2%
+226,Lac-Simon,Small,"1,243","1,224",+1.6%
+227,Yamachiche,Small,"1,240","1,218",+1.8%
+228,Daveluyville,Small,"1,236","1,217",+1.6%
+229,Saint-Chrysostome,Small,"1,218","1,098",+10.9%
+230,Saint-Cyrille-de-Wendover,Small,"1,216","1,104",+10.1%
+231,Cap-Saint-Ignace,Small,"1,214","1,142",+6.3%
+232,Saint-Donat-de-Montcalm,Small,"1,213","1,336",-9.2%
+233,Lac-Connelly,Small,"1,212","1,118",+8.4%
+234,Beaumont,Small,"1,210","1,065",+13.6%
+235,Shawville,Small,"1,203","1,246",-3.5%
+236,Saint-Damien-de-Buckland,Small,"1,203","1,481",-18.8%
+237,Notre-Dame-du-Lac,Small,"1,184","1,281",-7.6%
+238,Saint-Polycarpe,Small,"1,165","1,037",-12.3%
+239,Saint-Michel-de-Bellechasse,Small,"1,146","1,113",+3.0%
+240,Saint-Fabien,Small,"1,145","1,160",-1.3%
+241,Saint-Damase,Small,"1,138","1,202",-5.3%
+242,Labelle,Small,"1,136","1,072",+6.0%
+243,Saint-Michel-des-Saints,Small,"1,131","1,194",-5.3%
+244,Parc-Boutin,Small,"1,127",989,+14.0%
+245,Maria,Small,"1,124","1,043",+7.8%
+246,Pierreville,Small,"1,119","1,160",-3.5%
+247,Le Bic,Small,"1,115","1,056",+5.6%
+248,Saint-Raphaël,Small,"1,113","1,157",-3.8%
+249,Luceville,Small,"1,112","1,168",-4.8%
+250,Papineauville,Small,"1,105","1,182",-6.5%
+251,Carleton,Small,"1,101","1,076",+2.3%
+252,Barraute,Small,"1,099","1,097",+0.2%
+253,Saint-Alexandre,Small,"1,093","1,071",+2.1%
+254,Notre-Dame-du-Mont-Carmel,Small,"1,091","1,065",+2.4%
+255,Hébertville,Small,"1,085","1,076",+0.8%
+256,Sainte-Justine,Small,"1,077","1,078",-0.1%
+257,Saint-Bernard,Small,"1,075",778,+38.2%
+258,Salluit,Small,"1,075",919,+17.0%
+259,Rivière-au-Renard,Small,"1,074","1,100",-2.4%
+260,Cap-Chat,Small,"1,072","1,044",+2.7%
+261,Chute-aux-Outardes,Small,"1,059","1,065",-0.6%
+262,Saint-Elzéar,Small,"1,057",949,+11.4%
+263,Causapscal,Small,"1,041","1,133",-8.1%
+264,Puvirnituq,Small,"1,038",5,"+20,660.0%"
+265,Wemotaci,Small,"1,038",711,+46.0%
+266,Saint-Boniface,Small,"1,035",915,+13.1%
+267,Cookshire,Small,"1,021",916,+11.5%
+268,Saint-Prime,Small,"1,021",978,+4.1%
+269,Notre-Dame-du-Bon-Conseil,Small,"1,018",978,+4.1%
+270,Roxton Falls,Small,"1,003",957,+4.8%
