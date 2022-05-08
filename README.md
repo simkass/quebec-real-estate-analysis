@@ -1,4 +1,4 @@
-# quebec-real-estate
+# quebec-real-estate-analysis
 ## Goal
 - Scrape a considerable amount of data on the Québec real estate market.
 - Transform the acquired raw data into a clean, comprehensive tabular format.
