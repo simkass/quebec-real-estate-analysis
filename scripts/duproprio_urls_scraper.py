@@ -2,6 +2,8 @@
 # duproprio_urls_scraper.py
 # Web scraping script to acquire sold listing urls from duproprio.com.
 # --------------------------------------------------------------------------------------------------
+# Author: Simon Kassab
+# --------------------------------------------------------------------------------------------------
 
 import requests
 from bs4 import BeautifulSoup
