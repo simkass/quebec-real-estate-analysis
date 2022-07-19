@@ -7,9 +7,9 @@ import pandas as pd
 
 app = Dash(__name__)
 
-df = pd.read_csv('../data/processed/processed_listings.csv')
+df = pd.read_csv('../data/processed/for visualization/locations.csv')
 
-fig = px.scatter(df, x="price", y="listing_date", size="price", color="location", hover_name="location", log_x=True, size_max=60)
+fig = px.scatter(df, x="nb_of_listings", y="price", size="price", color="mtl_island", hover_name="location", log_x=True, size_max=60)
 
 app.layout = html.Div([
     dcc.Graph(
