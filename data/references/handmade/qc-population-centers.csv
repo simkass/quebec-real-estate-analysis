@@ -1,139 +1,139 @@
-﻿Location,City,RCM,Region,Bounding Territory,Display Name,Bounding Type,Display Type,Bounding Population,GeoPy Index
-Rimouski,Rimouski,Rimouski-Neigette,Bas-Saint-Laurent,Bas-Saint-Laurent,Bas-Saint-Laurent,Administative Region,Administative Region,200000,0
-Gaspé,Gaspé,La Côte-de-Gaspé,Gaspésie-Îles-de-la-Madeleine,Gaspésie-Îles-de-la-Madeleine,Gaspésie-Îles-de-la-Madeleine,Administative Region,Administative Region,90000,0
-La Cité-Limoilou,Québec,Québec,Capitale-Nationale,La Cité-Limoilou,La Cité-Limoilou,Québec City Borough,Québec City Borough,100000,0
-Les Rivières,Québec,Québec,Capitale-Nationale,Les Rivières,Les Rivières,Québec City Borough,Québec City Borough,75000,0
-Sainte-Foy-Sillery-Cap-Rouge,Québec,Québec,Capitale-Nationale,Sainte-Foy-Sillery-Cap-Rouge,Sainte-Foy-Sillery-Cap-Rouge,Québec City Borough,Québec City Borough,100000,0
-Charlesbourg,Québec,Québec,Capitale-Nationale,Charlesbourg,Charlesbourg,Québec City Borough,Québec City Borough,70000,0
-Beauport,Québec,Québec,Capitale-Nationale,Beauport,Beauport,Québec City Borough,Québec City Borough,75000,0
-La Haute-Saint-Charles,Québec,Québec,Capitale-Nationale,La Haute-Saint-Charles,La Haute-Saint-Charles,Québec City Borough,Québec City Borough,85000,0
-L'Ancienne-Lorette,L'Ancienne-Lorette,Québec,Capitale-Nationale,L'Ancienne-Lorette,L'Ancienne-Lorette,Municipality,Municipality,15000,0
-Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Québec,Capitale-Nationale,Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Municipality,Municipality,20000,0
-La Malbaie,La Malbaie,Charlevoix-Est,Capitale-Nationale,"[Charlevoix,Charlevoix-Est]",Charlevoix,Regional County Municipality (RCM),Regional County Municipality (RCM),30000,0
-Baie-Saint-Paul,Baie-Saint-Paul,Charlevoix,Capitale-Nationale,"[Charlevoix,Charlevoix-Est]",Charlevoix,Regional County Municipality (RCM),Regional County Municipality (RCM),30000,0
-Sainte-Anne-de-Beaupré,Sainte-Anne-de-Beaupré,La Côte-de-Beaupré,Capitale-Nationale,"[La Côte-de-Beaupré,L'Île-d'Orléans]",La Côte-de-Beaupré & L'Île-d'Orléans,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,0
-Lac-Beauport,Lac-Beauport,La Jacques-Cartier,Capitale-Nationale,La Jacques-Cartier,La Jacques-Cartier,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Cap-Santé,Cap-Santé,Portneuf,Capitale-Nationale,Portneuf,Portneuf,Regional County Municipality (RCM),Regional County Municipality (RCM),55000,1
-Lévis,Lévis,Lévis,Chaudière-Appalaches,Lévis,Lévis,Municipality,Municipality,145000,0
-Saint-Jean-Port-Joli,Saint-Jean-Port-Joli,L'Islet,Chaudière-Appalaches,"[L'Islet,Montmagny]",L'Islet & Montmagny,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,1
-Montmagny,Montmagny,Montmagny,Chaudière-Appalaches,"[L'Islet,Montmagny]",L'Islet & Montmagny,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,1
-Saint-Henri,Saint-Henri,Bellechasse,Chaudière-Appalaches,Bellechasse,Bellechasse,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Sainte-Marie,Sainte-Marie,La Nouvelle-Beauce,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),Regional County Municipality (RCM),120000,0
-Beauceville,Beauceville,Robert-Cliche,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),Regional County Municipality (RCM),120000,0
-Saint-Georges,Saint-Georges,Beauce-Sartigan,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),Regional County Municipality (RCM),120000,0
-Lac-Etchemin,Lac-Etchemin,Les Etchemins,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),Regional County Municipality (RCM),120000,0
-Theford Mines,Theford Mines,Les Appalaches,Chaudière-Appalaches,Les Appalaches,Les Appalaches,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Saint-Apollinaire,Saint-Apollinaire,Lotbinière,Chaudière-Appalaches,Lotbinière,Lotbinière,Regional County Municipality (RCM),Regional County Municipality (RCM),30000,1
-Sherbrooke,Sherbrooke,Sherbrooke,Estrie,Sherbrooke,Sherbrooke,Municipality,Municipality,160000,0
-Windsor,Windsor,Le Val-Saint-François,Estrie,"[Le Val-Saint-François,Les Sources]",Le Val-Saint-François & Les Sources,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Val-des-Sources,Val-des-Sources,Les Sources,Estrie,"[Le Val-Saint-François,Les Sources]",Le Val-Saint-François & Les Sources,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Cookshire-Eaton,Cookshire-Eaton,Le Haut-Saint-François,Estrie,Le Haut-Saint-François,Le Haut-Saint-François,Regional County Municipality (RCM),Regional County Municipality (RCM),20000,0
-Lac-Mégantic,Lac-Mégantic,Le Granit,Estrie,Le Granit,Le Granit,Regional County Municipality (RCM),Regional County Municipality (RCM),20000,0
-Coaticook,Coaticook,Coaticook,Estrie,Coaticook (MRC),Coaticook,Regional County Municipality (RCM),Regional County Municipality (RCM),20000,0
-Magog,Magog,Memphrémagog,Estrie,Memphrémagog,Memphrémagog,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Nicolet,Nicolet,Nicolet-Yamaska,Centre-du-Québec,"[Nicolet-Yamaska,Bécancour (MRC)]",Bécancour & Nicolet,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Bécancour,Bécancour,Bécancour,Centre-du-Québec,"[Nicolet-Yamaska,Bécancour (MRC)]",Bécancour & Nicolet,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Victoriaville,Victoriaville,Arthabaska,Centre-du-Québec,"[Arthabaska,L'Érable Centre-du-Québec]",Arthabaska & L'Érable,Regional County Municipality (RCM),Regional County Municipality (RCM),95000,-1
-Princeville,Princeville,L'Érable,Centre-du-Québec,"[Arthabaska,L'Érable Centre-du-Québec]",Arthabaska & L'Érable,Regional County Municipality (RCM),Regional County Municipality (RCM),95000,-1
-Drummondville,Drummondville,Drummond,Centre-du-Québec,Drummond,Drummond,Regional County Municipality (RCM),Regional County Municipality (RCM),100000,0
-Boucherville,Boucherville,Longueuil,Montérégie,Boucherville,Boucherville,Municipality,Municipality,40000,0
-Brossard,Brossard,Longueuil,Montérégie,Brossard,Brossard,Municipality,Municipality,90000,0
-Longueuil,Longueuil,Longueuil,Montérégie,Longueuil,Longueuil,Municipality,Municipality,240000,0
-Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,Longueuil,Montérégie,Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,Municipality,Municipality,25000,0
-Saint-Lambert,Saint-Lambert,Longueuil,Montérégie,Saint-Lambert,Saint-Lambert,Municipality,Municipality,20000,0
-Bromont,Bromont,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),Regional County Municipality (RCM),60000,0
-Lac-Brome,Lac-Brome,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),Regional County Municipality (RCM),60000,0
-Cowansville,Cowansville,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),Regional County Municipality (RCM),60000,0
-Granby,Granby,La Haute-Yamaska,Montérégie,La Haute-Yamaska,La Haute-Yamaska,Regional County Municipality (RCM),Regional County Municipality (RCM),90000,0
-Saint-Hyacinthe,Saint-Hyacinthe,Les Maskoutains,Montérégie,"[Les Maskoutains,Acton]",Les Maskoutains & Acton,Regional County Municipality (RCM),Regional County Municipality (RCM),105000,0
-Acton Vale,Acton Vale,Acton,Montérégie,"[Les Maskoutains,Acton]",Les Maskoutains & Acton,Regional County Municipality (RCM),Regional County Municipality (RCM),105000,0
-Sorel-Tracy,Sorel-Tracy,Pierre-de-Saurel,Montérégie,Pierre-de-Saurel,Pierre-de-Saurel,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Marieville,Marieville,Rouville,Montérégie,Rouville,Rouville,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,0
-Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,Le Haut-Richelieu,Montérégie,Le Haut-Richelieu,Le Haut-Richelieu,Regional County Municipality (RCM),Regional County Municipality (RCM),120000,0
-Beloeil,Beloeil,La Vallée-du-Richelieu,Montérégie,La Vallée-du-Richelieu,La Vallée-du-Richelieu,Regional County Municipality (RCM),Regional County Municipality (RCM),125000,0
-Sainte-Julie,Sainte-Julie,Marguerite-D'Youville,Montérégie,Marguerite-D'Youville,Marguerite-D'Youville,Regional County Municipality (RCM),Regional County Municipality (RCM),80000,0
-Saint-Constant,Saint-Constant,Roussillon,Montérégie,Roussillon,Roussillon,Regional County Municipality (RCM),Regional County Municipality (RCM),170000,0
-Napierville,Napierville,Les Jardins-de-Napierville,Montérégie,"[Les Jardins-de-Napierville,Le Haut-Saint-Laurent]",Les Jardins-de-Napierville & Le Haut-Saint-Laurent,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Huntingdon,Huntingdon,Le Haut-Saint-Laurent,Montérégie,"[Les Jardins-de-Napierville,Le Haut-Saint-Laurent]",Les Jardins-de-Napierville & Le Haut-Saint-Laurent,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,Beauharnois-Salaberry,Montérégie,Beauharnois-Salaberry,Beauharnois-Salaberry,Regional County Municipality (RCM),Regional County Municipality (RCM),65000,0
-Vaudreuil-Dorion,Vaudreuil-Dorion,Vaudreuil-Soulanges,Montérégie,Vaudreuil-Soulanges,Vaudreuil-Soulanges,Regional County Municipality (RCM),Regional County Municipality (RCM),150000,0
-Auteuil,Laval,Laval,Laval,Auteuil,Auteuil,Laval Borough,Laval Borough,25000,0
-Chomedey,Laval,Laval,Laval,Chomedey,Chomedey,Laval Borough,Laval Borough,100000,0
-Duvernay,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
-Saint-Vincent-de-Paul,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
-Fabreville,Laval,Laval,Laval,Fabreville,Fabreville,Laval Borough,Laval Borough,45000,0
-Sainte-Dorothée,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
-Laval-Ouest,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
-Îles Laval,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
-Laval-sur-le-Lac,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
-Laval-des-Rapides,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
-Pont-Viau,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
-Sainte-Rose,Laval,Laval,Laval,Sainte-Rose,Sainte-Rose,Laval Borough,Laval Borough,35000,1
-Vimont,Laval,Laval,Laval,Vimont,Vimont,Laval Borough,Laval Borough,30000,1
-Ahuntsic-Cartierville,Montréal,Montréal,Montréal,Ahuntsic-Cartierville,Ahuntsic-Cartierville,Montréal Borough,Montréal Borough,135000,0
-Anjou,Montréal,Montréal,Montréal,Anjou,Anjou,Montréal Borough,Montréal Borough,40000,0
-Beaconsfield,Montréal,Montréal,Montréal,Beaconsfield,Beaconsfield,Montréal Borough,Montréal Borough,20000,0
-Côte Saint-Luc,Montréal,Montréal,Montréal,"[Côte Saint-Luc,Montréal-Ouest]",Côte Saint-Luc,Montréal Borough,Montréal Borough,40000,0
-Côte-des-Neiges–Notre-Dame-de-Grâce,Montréal,Montréal,Montréal,"[Côte-des-Neiges–Notre-Dame-de-Grâce,Hampstead]",Côte-des-Neiges–Notre-Dame-de-Grâce,Montréal Borough,Montréal Borough,170000,0
-Dollard-des-Ormeaux,Montréal,Montréal,Montréal,Dollard-des-Ormeaux,Dollard-des-Ormeaux,Montréal Borough,Montréal Borough,50000,0
-Dorval,Montréal,Montréal,Montréal,Dorval,Dorval,Montréal Borough,Montréal Borough,20000,0
-Griffintown,Montréal,Montréal,Montréal,Griffintown,Griffintown,Montréal Borough,Montréal Borough,5000,0
-Kirkland,Montréal,Montréal,Montréal,Kirkland,Kirkland,Montréal Borough,Montréal Borough,20000,0
-L'Île-Bizard-Sainte-Geneviève,Montréal,Montréal,Montréal,L'Île-Bizard-Sainte-Geneviève,L'Île-Bizard-Sainte-Geneviève,Montréal Borough,Montréal Borough,20000,0
-LaSalle,Montréal,Montréal,Montréal,LaSalle,LaSalle,Montréal Borough,Montréal Borough,75000,0
-Lachine,Montréal,Montréal,Montréal,Arrondissement de Lachine,Lachine,Montréal Borough,Montréal Borough,45000,0
-Le Plateau-Mont-Royal,Montréal,Montréal,Montréal,Le Plateau-Mont-Royal,Le Plateau-Mont-Royal,Montréal Borough,Montréal Borough,100000,0
-Le Sud-Ouest,Montréal,Montréal,Montréal,Le Sud-Ouest,Le Sud-Ouest,Montréal Borough,Montréal Borough,80000,0
-Hochelaga-Maisonneuve,Montréal,Montréal,Montréal,Mercier-Hochelaga-Maisonneuve,Mercier-Hochelaga-Maisonneuve,Montréal Borough,Montréal Borough,135000,0
-Ville de Mont-Royal,Montréal,Montréal,Montréal,Ville de Mont-Royal,Ville de Mont-Royal,Montréal Borough,Montréal Borough,20000,0
-Ville-Marie,Montréal,Montréal,Montréal,Ville-Marie,Ville-Marie,Montréal Borough,Montréal Borough,90000,1
-Montréal-Nord,Montréal,Montréal,Montréal,Montréal-Nord,Montréal-Nord,Montréal Borough,Montréal Borough,85000,0
-Outremont,Montréal,Montréal,Montréal,Outremont,Outremont,Montréal Borough,Montréal Borough,25000,0
-Pierrefonds-Roxboro,Montréal,Montréal,Montréal,Pierrefonds-Roxboro,Pierrefonds-Roxboro,Montréal Borough,Montréal Borough,70000,0
-Rivière-des-Prairies-Pointe-aux-Trembles,Montréal,Montréal,Montréal,"[Rivière-des-Prairies-Pointe-aux-Trembles,Montréal-Est]",Rivière-des-Prairies-Pointe-aux-Trembles & Montréal-Est,Montréal Borough,Montréal Borough,110000,0
-Montréal-Est,Montréal,Montréal,Montréal,"[Rivière-des-Prairies-Pointe-aux-Trembles,Montréal-Est]",Rivière-des-Prairies-Pointe-aux-Trembles & Montréal-Est,Montréal Borough,Montréal Borough,0,0
-Pointe-Claire,Montréal,Montréal,Montréal,Pointe-Claire,Pointe-Claire,Montréal Borough,Montréal Borough,35000,0
-Rosemont-La Petite-Patrie,Montréal,Montréal,Montréal,Rosemont-La Petite-Patrie,Rosemont-La Petite-Patrie,Montréal Borough,Montréal Borough,140000,0
-Saint-Laurent,Montréal,Montréal,Montréal,Saint-Laurent,Saint-Laurent,Montréal Borough,Montréal Borough,100000,0
-Saint-Léonard,Montréal,Montréal,Montréal,Saint-Léonard,Saint-Léonard,Montréal Borough,Montréal Borough,80000,0
-Senneville,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,Montréal Borough,10000,0
-Baie-D'Urfé,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,Montréal Borough,10000,0
-Sainte-Anne-de-Bellevue,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,Montréal Borough,10000,0
-Verdun,Montréal,Montréal,Montréal,Verdun,Verdun,Montréal Borough,Montréal Borough,70000,0
-Villeray-Saint-Michel-Parc-Extension,Montréal,Montréal,Montréal,Villeray-Saint-Michel-Parc-Extension,Villeray-Saint-Michel-Parc-Extension,Montréal Borough,Montréal Borough,145000,0
-Westmount,Montréal,Montréal,Montréal,Westmount,Westmount,Montréal Borough,Montréal Borough,20000,0
-Shawinigan,Shawinigan,Shawinigan,Mauricie,Shawinigan,Shawinigan,Municipality,Municipality,50000,1
-Trois-Rivières,Trois-Rivières,Trois-Rivières,Mauricie,Trois-Rivières,Trois-Rivières,Municipality,Municipality,135000,0
-La Tuque,La Tuque,La Tuque,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Saint-Tite,Saint-Tite,Mékinac,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Notre-Dame-du-Mont-Carmel,Notre-Dame-du-Mont-Carmel,Les Chenaux,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Louiseville,Louiseville,Maskinongé,Mauricie,Maskinongé (MRC),Maskinongé,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,0
-Lavaltrie,Lavaltrie,D'Autray,Lanaudière,D'Autray,D'Autray,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-L'Assomption,L'Assomption,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),Regional County Municipality (RCM),125000,0
-Repentigny,Repentigny,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),Regional County Municipality (RCM),125000,0
-Joliette,Joliette,Joliette,Lanaudière,Joliette (MRC),Joliette,Regional County Municipality (RCM),Regional County Municipality (RCM),65000,0
-Rawdon,Rawdon,Matawinie,Lanaudière,Matawinie,Matawinie,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Saint-Calixte,Saint-Calixte,Montcalm,Lanaudière,Montcalm,Montcalm,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,1
-Terrebonne,Terrebonne,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),Regional County Municipality (RCM),160000,0
-Mascouche,Mascouche,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),Regional County Municipality (RCM),160000,0
-Gatineau,Gatineau,Gatineau,Outaouais,Gatineau,Gatineau,Municipality,Municipality,280000,0
-Campbell's Bay,Campbell's Bay,Pontiac,Outaouais,"[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,0
-Gracefield,Gracefield,La Vallée-de-la-Gatineau,Outaouais,"[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,0
-Cantley,Cantley,Les Collines-de-l'Outaouais,Outaouais,"[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),Regional County Municipality (RCM),60000,0
-Papineauville,Papineauville,Papineau,Outaouais,"[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),Regional County Municipality (RCM),60000,0
-Amos,Amos,Abitibi,Abitibi-Témiscamingue,Abitibi-Témiscamingue,Abitibi-Témiscamingue,Administative Region,Administative Region,150000,0
-Mirabel,Mirabel,Mirabel,Laurentides,Mirabel,Mirabel,Municipality,Municipality,60000,0
-Saint-Eustache,Saint-Eustache,Deux-Montagnes,Laurentides,Deux-Montagnes,Deux-Montagnes,Regional County Municipality (RCM),Regional County Municipality (RCM),100000,1
-Blainville,Blainville,Thérèse-De Blainville,Laurentides,Thérèse-De Blainville,Thérèse-De Blainville,Regional County Municipality (RCM),Regional County Municipality (RCM),160000,0
-Saint-Jérôme,Saint-Jérôme,La Rivière-du-Nord,Laurentides,La Rivière-du-Nord,La Rivière-du-Nord,Regional County Municipality (RCM),Regional County Municipality (RCM),130000,0
-Lachute,Lachute,Argenteuil,Laurentides,Argenteuil,Argenteuil,Regional County Municipality (RCM),Regional County Municipality (RCM),30000,0
-Saint-Sauveur,Saint-Sauveur,Les Pays-d'en-Haut,Laurentides,Les Pays-d'en-Haut,Les Pays-d'en-Haut,Regional County Municipality (RCM),Regional County Municipality (RCM),40000,0
-Mont-Tremblant,Mont-Tremblant,Les Laurentides,Laurentides,Les Laurentides,Les Laurentides,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Mont-Laurier,Mont-Laurier,Antoine-Labelle,Laurentides,Antoine-Labelle,Antoine-Labelle,Regional County Municipality (RCM),Regional County Municipality (RCM),35000,2
-Saguenay,Saguenay,Saguenay,Saguenay-Lac-Saint-Jean,Saguenay,Ville de Saguenay,Municipality,Municipality,150000,1
-Roberval,Roberval,Le Domaine-du-Roy,Saguenay-Lac-Saint-Jean,Le Domaine-du-Roy,Le Domaine-du-Roy,Regional County Municipality (RCM),Regional County Municipality (RCM),30000,0
-Alma,Alma,Lac-Saint-Jean-Est,Saguenay-Lac-Saint-Jean,Lac-Saint-Jean-Est,Lac-Saint-Jean-Est,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Dolbeau-Mistassini,Dolbeau-Mistassini,Maria-Chapdelaine,Saguenay-Lac-Saint-Jean,"[Le Fjord-du-Saguenay,Maria-Chapdelaine]",Le Fjord-du-Saguenay & Maria-Chapdelaine,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Saint-Honoré,Saint-Honoré,Le Fjord-du-Saguenay,Saguenay-Lac-Saint-Jean,"[Le Fjord-du-Saguenay,Maria-Chapdelaine]",Le Fjord-du-Saguenay & Maria-Chapdelaine,Regional County Municipality (RCM),Regional County Municipality (RCM),45000,0
-Baie-Comeau,Baie-Comeau,Manicouagan,Côte-Nord,Côte-Nord,Côte-Nord,Administative Region,Administative Region,90000,0
-Chibougamau,Chibougamau,Jamésie,Nord-du-Québec,Nord-du-Québec,Nord-du-Québec,Administative Region,Administative Region,45000,0
+﻿Location,City,RCM,Region,Bounding Territory,Display Name,Bounding Type,Bounding Population,GeoPy Index
+Rimouski,Rimouski,Rimouski-Neigette,Bas-Saint-Laurent,Bas-Saint-Laurent,Bas-Saint-Laurent,Administative Region,200000,0
+Gaspé,Gaspé,La Côte-de-Gaspé,Gaspésie-Îles-de-la-Madeleine,Gaspésie-Îles-de-la-Madeleine,Gaspésie-Îles-de-la-Madeleine,Administative Region,90000,0
+La Cité-Limoilou,Québec,Québec,Capitale-Nationale,La Cité-Limoilou,La Cité-Limoilou,Québec City Borough,100000,0
+Les Rivières,Québec,Québec,Capitale-Nationale,Les Rivières,Les Rivières,Québec City Borough,75000,0
+Sainte-Foy-Sillery-Cap-Rouge,Québec,Québec,Capitale-Nationale,Sainte-Foy-Sillery-Cap-Rouge,Sainte-Foy-Sillery-Cap-Rouge,Québec City Borough,100000,0
+Charlesbourg,Québec,Québec,Capitale-Nationale,Charlesbourg,Charlesbourg,Québec City Borough,70000,0
+Beauport,Québec,Québec,Capitale-Nationale,Beauport,Beauport,Québec City Borough,75000,0
+La Haute-Saint-Charles,Québec,Québec,Capitale-Nationale,La Haute-Saint-Charles,La Haute-Saint-Charles,Québec City Borough,85000,0
+L'Ancienne-Lorette,L'Ancienne-Lorette,Québec,Capitale-Nationale,L'Ancienne-Lorette,L'Ancienne-Lorette,Municipality,15000,0
+Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Québec,Capitale-Nationale,Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Municipality,20000,0
+La Malbaie,La Malbaie,Charlevoix-Est,Capitale-Nationale,"[Charlevoix,Charlevoix-Est]",Charlevoix,Regional County Municipality (RCM),30000,0
+Baie-Saint-Paul,Baie-Saint-Paul,Charlevoix,Capitale-Nationale,"[Charlevoix,Charlevoix-Est]",Charlevoix,Regional County Municipality (RCM),30000,0
+Sainte-Anne-de-Beaupré,Sainte-Anne-de-Beaupré,La Côte-de-Beaupré,Capitale-Nationale,"[La Côte-de-Beaupré,L'Île-d'Orléans]",La Côte-de-Beaupré & L'Île-d'Orléans,Regional County Municipality (RCM),35000,0
+Lac-Beauport,Lac-Beauport,La Jacques-Cartier,Capitale-Nationale,La Jacques-Cartier,La Jacques-Cartier,Regional County Municipality (RCM),45000,0
+Cap-Santé,Cap-Santé,Portneuf,Capitale-Nationale,Portneuf,Portneuf,Regional County Municipality (RCM),55000,1
+Lévis,Lévis,Lévis,Chaudière-Appalaches,Lévis,Lévis,Municipality,145000,0
+Saint-Jean-Port-Joli,Saint-Jean-Port-Joli,L'Islet,Chaudière-Appalaches,"[L'Islet,Montmagny]",L'Islet & Montmagny,Regional County Municipality (RCM),40000,1
+Montmagny,Montmagny,Montmagny,Chaudière-Appalaches,"[L'Islet,Montmagny]",L'Islet & Montmagny,Regional County Municipality (RCM),40000,1
+Saint-Henri,Saint-Henri,Bellechasse,Chaudière-Appalaches,Bellechasse,Bellechasse,Regional County Municipality (RCM),40000,0
+Sainte-Marie,Sainte-Marie,La Nouvelle-Beauce,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),120000,0
+Beauceville,Beauceville,Robert-Cliche,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),120000,0
+Saint-Georges,Saint-Georges,Beauce-Sartigan,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),120000,0
+Lac-Etchemin,Lac-Etchemin,Les Etchemins,Chaudière-Appalaches,"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),120000,0
+Thetford Mines,Thetford Mines,Les Appalaches,Chaudière-Appalaches,Les Appalaches,Les Appalaches,Regional County Municipality (RCM),40000,0
+Saint-Apollinaire,Saint-Apollinaire,Lotbinière,Chaudière-Appalaches,Lotbinière,Lotbinière,Regional County Municipality (RCM),30000,1
+Sherbrooke,Sherbrooke,Sherbrooke,Estrie,Sherbrooke,Sherbrooke,Municipality,160000,0
+Windsor,Windsor,Le Val-Saint-François,Estrie,"[Le Val-Saint-François,Les Sources]",Le Val-Saint-François & Les Sources,Regional County Municipality (RCM),45000,0
+Val-des-Sources,Val-des-Sources,Les Sources,Estrie,"[Le Val-Saint-François,Les Sources]",Le Val-Saint-François & Les Sources,Regional County Municipality (RCM),45000,0
+Cookshire-Eaton,Cookshire-Eaton,Le Haut-Saint-François,Estrie,Le Haut-Saint-François,Le Haut-Saint-François,Regional County Municipality (RCM),20000,0
+Lac-Mégantic,Lac-Mégantic,Le Granit,Estrie,Le Granit,Le Granit,Regional County Municipality (RCM),20000,0
+Coaticook,Coaticook,Coaticook,Estrie,Coaticook (MRC),Coaticook,Regional County Municipality (RCM),20000,0
+Magog,Magog,Memphrémagog,Estrie,Memphrémagog,Memphrémagog,Regional County Municipality (RCM),50000,0
+Nicolet,Nicolet,Nicolet-Yamaska,Centre-du-Québec,"[Nicolet-Yamaska,Bécancour (MRC)]",Bécancour & Nicolet,Regional County Municipality (RCM),40000,0
+Bécancour,Bécancour,Bécancour,Centre-du-Québec,"[Nicolet-Yamaska,Bécancour (MRC)]",Bécancour & Nicolet,Regional County Municipality (RCM),40000,0
+Victoriaville,Victoriaville,Arthabaska,Centre-du-Québec,"[Arthabaska,L'Érable Centre-du-Québec]",Arthabaska & L'Érable,Regional County Municipality (RCM),95000,-1
+Princeville,Princeville,L'Érable,Centre-du-Québec,"[Arthabaska,L'Érable Centre-du-Québec]",Arthabaska & L'Érable,Regional County Municipality (RCM),95000,-1
+Drummondville,Drummondville,Drummond,Centre-du-Québec,Drummond,Drummond,Regional County Municipality (RCM),100000,0
+Boucherville,Boucherville,Longueuil,Montérégie,Boucherville,Boucherville,Municipality,40000,0
+Brossard,Brossard,Longueuil,Montérégie,Brossard,Brossard,Municipality,90000,0
+Longueuil,Longueuil,Longueuil,Montérégie,Longueuil,Longueuil,Municipality,240000,0
+Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,Longueuil,Montérégie,Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,Municipality,25000,0
+Saint-Lambert,Saint-Lambert,Longueuil,Montérégie,Saint-Lambert,Saint-Lambert,Municipality,20000,0
+Bromont,Bromont,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),60000,0
+Lac-Brome,Lac-Brome,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),60000,0
+Cowansville,Cowansville,Brome-Missisquoi,Montérégie,Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),60000,0
+Granby,Granby,La Haute-Yamaska,Montérégie,La Haute-Yamaska,La Haute-Yamaska,Regional County Municipality (RCM),90000,0
+Saint-Hyacinthe,Saint-Hyacinthe,Les Maskoutains,Montérégie,"[Les Maskoutains,Acton]",Les Maskoutains & Acton,Regional County Municipality (RCM),105000,0
+Acton Vale,Acton Vale,Acton,Montérégie,"[Les Maskoutains,Acton]",Les Maskoutains & Acton,Regional County Municipality (RCM),105000,0
+Sorel-Tracy,Sorel-Tracy,Pierre-de-Saurel,Montérégie,Pierre-de-Saurel,Pierre-de-Saurel,Regional County Municipality (RCM),50000,0
+Marieville,Marieville,Rouville,Montérégie,Rouville,Rouville,Regional County Municipality (RCM),35000,0
+Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,Le Haut-Richelieu,Montérégie,Le Haut-Richelieu,Le Haut-Richelieu,Regional County Municipality (RCM),120000,0
+Beloeil,Beloeil,La Vallée-du-Richelieu,Montérégie,La Vallée-du-Richelieu,La Vallée-du-Richelieu,Regional County Municipality (RCM),125000,0
+Sainte-Julie,Sainte-Julie,Marguerite-D'Youville,Montérégie,Marguerite-D'Youville,Marguerite-D'Youville,Regional County Municipality (RCM),80000,0
+Saint-Constant,Saint-Constant,Roussillon,Montérégie,Roussillon,Roussillon,Regional County Municipality (RCM),170000,0
+Napierville,Napierville,Les Jardins-de-Napierville,Montérégie,"[Les Jardins-de-Napierville,Le Haut-Saint-Laurent]",Les Jardins-de-Napierville & Le Haut-Saint-Laurent,Regional County Municipality (RCM),50000,0
+Elgin,Elgin,Le Haut-Saint-Laurent,Montérégie,"[Les Jardins-de-Napierville,Le Haut-Saint-Laurent]",Les Jardins-de-Napierville & Le Haut-Saint-Laurent,Regional County Municipality (RCM),50000,0
+Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,Beauharnois-Salaberry,Montérégie,Beauharnois-Salaberry,Beauharnois-Salaberry,Regional County Municipality (RCM),65000,0
+Vaudreuil-Dorion,Vaudreuil-Dorion,Vaudreuil-Soulanges,Montérégie,Vaudreuil-Soulanges,Vaudreuil-Soulanges,Regional County Municipality (RCM),150000,0
+Auteuil,Laval,Laval,Laval,Auteuil,Auteuil,Laval Borough,25000,0
+Chomedey,Laval,Laval,Laval,Chomedey,Chomedey,Laval Borough,100000,0
+Duvernay,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,65000,0
+Saint-Vincent-de-Paul,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,65000,0
+Fabreville,Laval,Laval,Laval,Fabreville,Fabreville,Laval Borough,45000,0
+Sainte-Dorothée,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,45000,0
+Laval-Ouest,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,45000,0
+Îles Laval,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,45000,0
+Laval-sur-le-Lac,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,45000,0
+Laval-des-Rapides,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,50000,0
+Pont-Viau,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,50000,0
+Sainte-Rose,Laval,Laval,Laval,Sainte-Rose,Sainte-Rose,Laval Borough,35000,1
+Vimont,Laval,Laval,Laval,Vimont,Vimont,Laval Borough,30000,1
+Ahuntsic-Cartierville,Montréal,Montréal,Montréal,Ahuntsic-Cartierville,Ahuntsic-Cartierville,Montréal Borough,135000,0
+Anjou,Montréal,Montréal,Montréal,Anjou,Anjou,Montréal Borough,40000,0
+Beaconsfield,Montréal,Montréal,Montréal,Beaconsfield,Beaconsfield,Montréal Borough,20000,0
+Côte Saint-Luc,Montréal,Montréal,Montréal,"[Côte Saint-Luc,Montréal-Ouest]",Côte Saint-Luc,Montréal Borough,40000,0
+Côte-des-Neiges–Notre-Dame-de-Grâce,Montréal,Montréal,Montréal,"[Côte-des-Neiges–Notre-Dame-de-Grâce,Hampstead]",Côte-des-Neiges–Notre-Dame-de-Grâce,Montréal Borough,170000,0
+Dollard-des-Ormeaux,Montréal,Montréal,Montréal,Dollard-des-Ormeaux,Dollard-des-Ormeaux,Montréal Borough,50000,0
+Dorval,Montréal,Montréal,Montréal,Dorval,Dorval,Montréal Borough,20000,0
+Griffintown,Montréal,Montréal,Montréal,Griffintown,Griffintown,Montréal Borough,5000,0
+Kirkland,Montréal,Montréal,Montréal,Kirkland,Kirkland,Montréal Borough,20000,0
+L'Île-Bizard-Sainte-Geneviève,Montréal,Montréal,Montréal,L'Île-Bizard-Sainte-Geneviève,L'Île-Bizard-Sainte-Geneviève,Montréal Borough,20000,0
+LaSalle,Montréal,Montréal,Montréal,LaSalle,LaSalle,Montréal Borough,75000,0
+Lachine,Montréal,Montréal,Montréal,Arrondissement de Lachine,Lachine,Montréal Borough,45000,0
+Le Plateau-Mont-Royal,Montréal,Montréal,Montréal,Le Plateau-Mont-Royal,Le Plateau-Mont-Royal,Montréal Borough,100000,0
+Le Sud-Ouest,Montréal,Montréal,Montréal,Le Sud-Ouest,Le Sud-Ouest,Montréal Borough,80000,0
+Hochelaga-Maisonneuve,Montréal,Montréal,Montréal,Mercier-Hochelaga-Maisonneuve,Mercier-Hochelaga-Maisonneuve,Montréal Borough,135000,0
+Ville de Mont-Royal,Montréal,Montréal,Montréal,Ville de Mont-Royal,Ville de Mont-Royal,Montréal Borough,20000,0
+Ville-Marie,Montréal,Montréal,Montréal,Ville-Marie,Ville-Marie,Montréal Borough,90000,1
+Montréal-Nord,Montréal,Montréal,Montréal,Montréal-Nord,Montréal-Nord,Montréal Borough,85000,0
+Outremont,Montréal,Montréal,Montréal,Outremont,Outremont,Montréal Borough,25000,0
+Pierrefonds-Roxboro,Montréal,Montréal,Montréal,Pierrefonds-Roxboro,Pierrefonds-Roxboro,Montréal Borough,70000,0
+Rivière-des-Prairies-Pointe-aux-Trembles,Montréal,Montréal,Montréal,"[Rivière-des-Prairies-Pointe-aux-Trembles,Montréal-Est]",Rivière-des-Prairies-Pointe-aux-Trembles & Montréal-Est,Montréal Borough,110000,0
+Montréal-Est,Montréal,Montréal,Montréal,"[Rivière-des-Prairies-Pointe-aux-Trembles,Montréal-Est]",Rivière-des-Prairies-Pointe-aux-Trembles & Montréal-Est,Montréal Borough,0,0
+Pointe-Claire,Montréal,Montréal,Montréal,Pointe-Claire,Pointe-Claire,Montréal Borough,35000,0
+Rosemont-La Petite-Patrie,Montréal,Montréal,Montréal,Rosemont-La Petite-Patrie,Rosemont-La Petite-Patrie,Montréal Borough,140000,0
+Saint-Laurent,Montréal,Montréal,Montréal,Saint-Laurent,Saint-Laurent,Montréal Borough,100000,0
+Saint-Léonard,Montréal,Montréal,Montréal,Saint-Léonard,Saint-Léonard,Montréal Borough,80000,0
+Senneville,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,10000,0
+Baie-D'Urfé,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,10000,0
+Sainte-Anne-de-Bellevue,Montréal,Montréal,Montréal,"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,10000,0
+Verdun,Montréal,Montréal,Montréal,Verdun,Verdun,Montréal Borough,70000,0
+Villeray-Saint-Michel-Parc-Extension,Montréal,Montréal,Montréal,Villeray-Saint-Michel-Parc-Extension,Villeray-Saint-Michel-Parc-Extension,Montréal Borough,145000,0
+Westmount,Montréal,Montréal,Montréal,Westmount,Westmount,Montréal Borough,20000,0
+Shawinigan,Shawinigan,Shawinigan,Mauricie,Shawinigan,Shawinigan,Municipality,50000,1
+Trois-Rivières,Trois-Rivières,Trois-Rivières,Mauricie,Trois-Rivières,Trois-Rivières,Municipality,135000,0
+La Tuque,La Tuque,La Tuque,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),40000,0
+Saint-Tite,Saint-Tite,Mékinac,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),40000,0
+Notre-Dame-du-Mont-Carmel,Notre-Dame-du-Mont-Carmel,Les Chenaux,Mauricie,"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),40000,0
+Louiseville,Louiseville,Maskinongé,Mauricie,Maskinongé (MRC),Maskinongé,Regional County Municipality (RCM),35000,0
+Lavaltrie,Lavaltrie,D'Autray,Lanaudière,D'Autray,D'Autray,Regional County Municipality (RCM),40000,0
+L'Assomption,L'Assomption,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),125000,0
+Repentigny,Repentigny,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),125000,0
+Joliette,Joliette,Joliette,Lanaudière,Joliette (MRC),Joliette,Regional County Municipality (RCM),65000,0
+Rawdon,Rawdon,Matawinie,Lanaudière,Matawinie,Matawinie,Regional County Municipality (RCM),50000,0
+Saint-Calixte,Saint-Calixte,Montcalm,Lanaudière,Montcalm,Montcalm,Regional County Municipality (RCM),50000,1
+Terrebonne,Terrebonne,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),160000,0
+Mascouche,Mascouche,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),160000,0
+Gatineau,Gatineau,Gatineau,Outaouais,Gatineau,Gatineau,Municipality,280000,0
+Campbell's Bay,Campbell's Bay,Pontiac,Outaouais,"[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),35000,0
+Gracefield,Gracefield,La Vallée-de-la-Gatineau,Outaouais,"[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),35000,0
+Cantley,Cantley,Les Collines-de-l'Outaouais,Outaouais,"[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),60000,0
+Papineauville,Papineauville,Papineau,Outaouais,"[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),60000,0
+Amos,Amos,Abitibi,Abitibi-Témiscamingue,Abitibi-Témiscamingue,Abitibi-Témiscamingue,Administative Region,150000,0
+Mirabel,Mirabel,Mirabel,Laurentides,Mirabel,Mirabel,Municipality,60000,0
+Saint-Eustache,Saint-Eustache,Deux-Montagnes,Laurentides,Deux-Montagnes,Deux-Montagnes,Regional County Municipality (RCM),100000,1
+Blainville,Blainville,Thérèse-De Blainville,Laurentides,Thérèse-De Blainville,Thérèse-De Blainville,Regional County Municipality (RCM),160000,0
+Saint-Jérôme,Saint-Jérôme,La Rivière-du-Nord,Laurentides,La Rivière-du-Nord,La Rivière-du-Nord,Regional County Municipality (RCM),130000,0
+Lachute,Lachute,Argenteuil,Laurentides,Argenteuil,Argenteuil,Regional County Municipality (RCM),30000,0
+Saint-Sauveur,Saint-Sauveur,Les Pays-d'en-Haut,Laurentides,Les Pays-d'en-Haut,Les Pays-d'en-Haut,Regional County Municipality (RCM),40000,0
+Mont-Tremblant,Mont-Tremblant,Les Laurentides,Laurentides,Les Laurentides,Les Laurentides,Regional County Municipality (RCM),45000,0
+Mont-Laurier,Mont-Laurier,Antoine-Labelle,Laurentides,Antoine-Labelle,Antoine-Labelle,Regional County Municipality (RCM),35000,2
+Saguenay,Saguenay,Saguenay,Saguenay-Lac-Saint-Jean,Saguenay,Ville de Saguenay,Municipality,150000,1
+Roberval,Roberval,Le Domaine-du-Roy,Saguenay-Lac-Saint-Jean,Le Domaine-du-Roy,Le Domaine-du-Roy,Regional County Municipality (RCM),30000,0
+Alma,Alma,Lac-Saint-Jean-Est,Saguenay-Lac-Saint-Jean,Lac-Saint-Jean-Est,Lac-Saint-Jean-Est,Regional County Municipality (RCM),50000,0
+Dolbeau-Mistassini,Dolbeau-Mistassini,Maria-Chapdelaine,Saguenay-Lac-Saint-Jean,"[Le Fjord-du-Saguenay,Maria-Chapdelaine]",Le Fjord-du-Saguenay & Maria-Chapdelaine,Regional County Municipality (RCM),45000,0
+Saint-Honoré,Saint-Honoré,Le Fjord-du-Saguenay,Saguenay-Lac-Saint-Jean,"[Le Fjord-du-Saguenay,Maria-Chapdelaine]",Le Fjord-du-Saguenay & Maria-Chapdelaine,Regional County Municipality (RCM),45000,0
+Baie-Comeau,Baie-Comeau,Manicouagan,Côte-Nord,Côte-Nord,Côte-Nord,Administative Region,90000,0
+Chibougamau,Chibougamau,Jamésie,Nord-du-Québec,Nord-du-Québec,Nord-du-Québec,Administative Region,45000,0
