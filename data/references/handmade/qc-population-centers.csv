@@ -59,15 +59,15 @@ Salaberry-de-Valleyfield,Salaberry-de-Valleyfield,Beauharnois-Salaberry,Montér�
 Vaudreuil-Dorion,Vaudreuil-Dorion,Vaudreuil-Soulanges,Montérégie,Vaudreuil-Soulanges,Vaudreuil-Soulanges,Regional County Municipality (RCM),Regional County Municipality (RCM),150000,0
 Auteuil,Laval,Laval,Laval,Auteuil,Auteuil,Laval Borough,Laval Borough,25000,0
 Chomedey,Laval,Laval,Laval,Chomedey,Chomedey,Laval Borough,Laval Borough,100000,0
-Duvernay,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
-Saint-Vincent-de-Paul,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
+Duvernay,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
+Saint-Vincent-de-Paul,Laval,Laval,Laval,"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,Laval Borough,65000,0
 Fabreville,Laval,Laval,Laval,Fabreville,Fabreville,Laval Borough,Laval Borough,45000,0
 Sainte-Dorothée,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
 Laval-Ouest,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
 Îles Laval,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
 Laval-sur-le-Lac,Laval,Laval,Laval,"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,Laval Borough,45000,0
-Laval-des-Rapides,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
-Pont-Viau,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
+Laval-des-Rapides,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
+Pont-Viau,Laval,Laval,Laval,"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,Laval Borough,50000,0
 Sainte-Rose,Laval,Laval,Laval,Sainte-Rose,Sainte-Rose,Laval Borough,Laval Borough,35000,1
 Vimont,Laval,Laval,Laval,Vimont,Vimont,Laval Borough,Laval Borough,30000,1
 Ahuntsic-Cartierville,Montréal,Montréal,Montréal,Ahuntsic-Cartierville,Ahuntsic-Cartierville,Montréal Borough,Montréal Borough,135000,0
@@ -113,7 +113,7 @@ L'Assomption,L'Assomption,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assompti
 Repentigny,Repentigny,L'Assomption,Lanaudière,L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),Regional County Municipality (RCM),125000,0
 Joliette,Joliette,Joliette,Lanaudière,Joliette (MRC),Joliette,Regional County Municipality (RCM),Regional County Municipality (RCM),65000,0
 Rawdon,Rawdon,Matawinie,Lanaudière,Matawinie,Matawinie,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
-Saint-Calixte,Saint-Calixte,Montcalm,Lanaudière,Montcalm,Montcalm,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,0
+Saint-Calixte,Saint-Calixte,Montcalm,Lanaudière,Montcalm,Montcalm,Regional County Municipality (RCM),Regional County Municipality (RCM),50000,1
 Terrebonne,Terrebonne,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),Regional County Municipality (RCM),160000,0
 Mascouche,Mascouche,Les Moulins,Lanaudière,Les Moulins,Les Moulins,Regional County Municipality (RCM),Regional County Municipality (RCM),160000,0
 Gatineau,Gatineau,Gatineau,Outaouais,Gatineau,Gatineau,Municipality,Municipality,280000,0
