@@ -11,6 +11,7 @@ import config
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 def format(value: str):
     return value.replace('\n', '').replace('$', '').replace(',', '').replace(' ', '')
@@ -82,7 +83,7 @@ def parse_icon_description(soup: BeautifulSoup, icon: str):
 def parse_location(soup: BeautifulSoup):
     """Parse home location from loaded page by finding the relevant html tag."""
     div = soup.find('div', class_='listing-location__address')
-    return format_location(div.find('a').text) if div is not None else None
+    return format_location(div.find('span').text) if div is not None else None
 
 
 def parse_listing_date(soup: BeautifulSoup):
@@ -146,7 +147,7 @@ def scrape_listing(url: str, subtypes: list, output_filename: str):
         append_to_csv(output_filename, dict(zip(config.data_columns, data)))
 
 
-def scrape_listings(subtypes: list, urls_filename: str, output_filename: str):
+def scrape_listings(subtypes: list, urls_filename: str, output_filename: str, total: int):
     """load and scrape pages from the provided file of listing urls. 
 
     Args:
@@ -154,5 +155,5 @@ def scrape_listings(subtypes: list, urls_filename: str, output_filename: str):
         urls_filename (str): name of the file containing the listing urls. 
         output_filename (str): name of the .csv file where data will be stored. 
     """
-    for url in open(urls_filename, 'r'):
+    for url in tqdm(open(urls_filename, 'r'), desc="Scraping Listings", total=total):
         scrape_listing(url[:-1], subtypes, output_filename)
