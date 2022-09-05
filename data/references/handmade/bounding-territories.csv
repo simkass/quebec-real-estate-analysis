@@ -1,0 +1,111 @@
+﻿Bounding Territory,Display Name,Bounding Type,Bounding Population,GeoPy Index
+Bas-Saint-Laurent,Bas-Saint-Laurent,Administative Region,200000,0
+Gaspésie-Îles-de-la-Madeleine,Gaspésie-Îles-de-la-Madeleine,Administative Region,90000,0
+La Cité-Limoilou,La Cité-Limoilou,Québec City Borough,100000,0
+Les Rivières,Les Rivières,Québec City Borough,75000,0
+Sainte-Foy-Sillery-Cap-Rouge,Sainte-Foy-Sillery-Cap-Rouge,Québec City Borough,100000,0
+Charlesbourg,Charlesbourg,Québec City Borough,70000,0
+Beauport,Beauport,Québec City Borough,75000,0
+La Haute-Saint-Charles,La Haute-Saint-Charles,Québec City Borough,85000,0
+L'Ancienne-Lorette,L'Ancienne-Lorette,Municipality,15000,0
+Saint-Augustin-de-Desmaures,Saint-Augustin-de-Desmaures,Municipality,20000,0
+"[Charlevoix,Charlevoix-Est]",Charlevoix,Regional County Municipality (RCM),30000,0
+"[La Côte-de-Beaupré,L'Île-d'Orléans]",La Côte-de-Beaupré & L'Île-d'Orléans,Regional County Municipality (RCM),35000,0
+La Jacques-Cartier,La Jacques-Cartier,Regional County Municipality (RCM),45000,0
+Portneuf,Portneuf,Regional County Municipality (RCM),55000,1
+Lévis,Lévis,Municipality,145000,0
+"[L'Islet,Montmagny]",L'Islet & Montmagny,Regional County Municipality (RCM),40000,1
+Bellechasse,Bellechasse,Regional County Municipality (RCM),40000,0
+"[La Nouvelle-Beauce,Robert-Cliché,Beauce-Sartigan,Les Etchemins]",Beauce & Les Etchemins,Regional County Municipality (RCM),120000,0
+Les Appalaches,Les Appalaches,Regional County Municipality (RCM),40000,0
+Lotbinière,Lotbinière,Regional County Municipality (RCM),30000,1
+Sherbrooke,Sherbrooke,Municipality,160000,0
+"[Le Val-Saint-François,Les Sources]",Le Val-Saint-François & Les Sources,Regional County Municipality (RCM),45000,0
+Le Haut-Saint-François,Le Haut-Saint-François,Regional County Municipality (RCM),20000,0
+Le Granit,Le Granit,Regional County Municipality (RCM),20000,0
+Coaticook (MRC),Coaticook,Regional County Municipality (RCM),20000,0
+Memphrémagog,Memphrémagog,Regional County Municipality (RCM),50000,0
+"[Nicolet-Yamaska,Bécancour (MRC)]",Bécancour & Nicolet,Regional County Municipality (RCM),40000,0
+"[Arthabaska,L'Érable Centre-du-Québec]",Arthabaska & L'Érable,Regional County Municipality (RCM),95000,-1
+Drummond,Drummond,Regional County Municipality (RCM),100000,0
+Boucherville,Boucherville,Municipality,40000,0
+Brossard,Brossard,Municipality,90000,0
+"[Longueuil,-Saint-Lambert,-Boucherville]",Longueuil,Municipality,240000,0
+Saint-Bruno-de-Montarville,Saint-Bruno-de-Montarville,Municipality,25000,0
+Saint-Lambert,Saint-Lambert,Municipality,20000,0
+Brome-Missisquoi,Brome-Missisquoi,Regional County Municipality (RCM),60000,0
+La Haute-Yamaska,La Haute-Yamaska,Regional County Municipality (RCM),90000,0
+"[Les Maskoutains,Acton]",Les Maskoutains & Acton,Regional County Municipality (RCM),105000,0
+Pierre-de-Saurel,Pierre-de-Saurel,Regional County Municipality (RCM),50000,0
+Rouville,Rouville,Regional County Municipality (RCM),35000,0
+Le Haut-Richelieu,Le Haut-Richelieu,Regional County Municipality (RCM),120000,0
+La Vallée-du-Richelieu,La Vallée-du-Richelieu,Regional County Municipality (RCM),125000,0
+Marguerite-D'Youville,Marguerite-D'Youville,Regional County Municipality (RCM),80000,0
+"[Roussillon,Kahnawake]",Roussillon,Regional County Municipality (RCM),170000,0
+"[Les Jardins-de-Napierville,Le Haut-Saint-Laurent]",Les Jardins-de-Napierville & Le Haut-Saint-Laurent,Regional County Municipality (RCM),50000,0
+Beauharnois-Salaberry,Beauharnois-Salaberry,Regional County Municipality (RCM),65000,0
+Vaudreuil-Soulanges,Vaudreuil-Soulanges,Regional County Municipality (RCM),150000,0
+Auteuil,Auteuil,Laval Borough,25000,0
+Chomedey,Chomedey,Laval Borough,100000,0
+"[Duvernay,Saint-Vincent-de-Paul,Saint-François Laval]","Duvernay, Saint-Vincent-de-Paul & Saint-François",Laval Borough,65000,0
+Fabreville,Fabreville,Laval Borough,45000,0
+"[Sainte-Dorothée,Laval-Ouest,Îles Laval,Laval-sur-le-Lac]",Sainte-Dorothée & Laval-Ouest,Laval Borough,45000,0
+"[Laval-des-Rapides,Pont-Viau Laval]",Laval-des-Rapides,Laval Borough,50000,0
+Sainte-Rose,Sainte-Rose,Laval Borough,35000,1
+Vimont,Vimont,Laval Borough,30000,1
+Ahuntsic-Cartierville,Ahuntsic-Cartierville,Montréal Borough,135000,0
+Anjou,Anjou,Montréal Borough,40000,0
+Beaconsfield,Beaconsfield,Montréal Borough,20000,0
+"[Côte Saint-Luc,Montréal-Ouest]",Côte Saint-Luc,Montréal Borough,40000,0
+"[Côte-des-Neiges-Notre-Dame-de-Grâce,Hampstead]",Côte-des-Neiges-Notre-Dame-de-Grâce,Montréal Borough,170000,0
+Dollard-des-Ormeaux,Dollard-des-Ormeaux,Montréal Borough,50000,0
+Dorval,Dorval,Montréal Borough,20000,0
+Kirkland,Kirkland,Montréal Borough,20000,0
+L'Île-Bizard-Sainte-Geneviève,L'Île-Bizard-Sainte-Geneviève,Montréal Borough,20000,0
+LaSalle,LaSalle,Montréal Borough,75000,0
+Arrondissement de Lachine,Lachine,Montréal Borough,45000,0
+Le Plateau-Mont-Royal,Le Plateau-Mont-Royal,Montréal Borough,100000,0
+Le Sud-Ouest,Le Sud-Ouest,Montréal Borough,80000,0
+Mercier-Hochelaga-Maisonneuve,Mercier-Hochelaga-Maisonneuve,Montréal Borough,135000,0
+Ville de Mont-Royal,Ville de Mont-Royal,Montréal Borough,20000,0
+Ville-Marie,Ville-Marie,Montréal Borough,90000,1
+Montréal-Nord,Montréal-Nord,Montréal Borough,85000,0
+Outremont,Outremont,Montréal Borough,25000,0
+Pierrefonds-Roxboro,Pierrefonds-Roxboro,Montréal Borough,70000,0
+"[Rivière-des-Prairies-Pointe-aux-Trembles,Montréal-Est]",Rivière-des-Prairies-Pointe-aux-Trembles & Montréal-Est,Montréal Borough,110000,0
+Pointe-Claire,Pointe-Claire,Montréal Borough,35000,0
+Rosemont-La Petite-Patrie,Rosemont-La Petite-Patrie,Montréal Borough,140000,0
+Saint-Laurent,Saint-Laurent,Montréal Borough,100000,0
+Saint-Léonard,Saint-Léonard,Montréal Borough,80000,0
+"[Senneville,Baie-D'Urfé,Sainte-Anne-de-Bellevue]","Senneville, Baie-D'Urfé & Saint-Anne-de-Bellevue",Montréal Borough,10000,0
+Verdun,Verdun,Montréal Borough,70000,0
+Villeray-Saint-Michel-Parc-Extension,Villeray-Saint-Michel-Parc-Extension,Montréal Borough,145000,0
+Westmount,Westmount,Montréal Borough,20000,0
+Shawinigan,Shawinigan,Municipality,50000,1
+Trois-Rivières,Trois-Rivières,Municipality,135000,0
+"[La Tuque,Mékinac,Les Chenaux]","La Tuque, Mékinac & Les Chenaux",Regional County Municipality (RCM),40000,0
+Maskinongé (MRC),Maskinongé,Regional County Municipality (RCM),35000,0
+D'Autray,D'Autray,Regional County Municipality (RCM),40000,0
+L'Assomption (MRC),L'Assomption,Regional County Municipality (RCM),125000,0
+Joliette (MRC),Joliette,Regional County Municipality (RCM),65000,0
+Matawinie,Matawinie,Regional County Municipality (RCM),50000,0
+Montcalm,Montcalm,Regional County Municipality (RCM),50000,1
+Les Moulins,Les Moulins,Regional County Municipality (RCM),160000,0
+Gatineau,Gatineau,Municipality,280000,0
+"[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),35000,0
+"[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),60000,0
+Abitibi-Témiscamingue,Abitibi-Témiscamingue,Administative Region,150000,0
+Argenteuil,Argenteuil,Regional County Municipality (RCM),30000,0
+Les Pays-d'en-Haut,Les Pays-d'en-Haut,Regional County Municipality (RCM),40000,0
+Les Laurentides,Les Laurentides,Regional County Municipality (RCM),45000,0
+Antoine-Labelle,Antoine-Labelle,Regional County Municipality (RCM),35000,2
+"[Mirabel,-Deux-Montagnes,-La Rivière-du-Nord,-Thérèse-De Blainville]",Mirabel,Municipality,60000,0
+Deux-Montagnes,Deux-Montagnes,Regional County Municipality (RCM),100000,1
+Thérèse-De Blainville,Thérèse-De Blainville,Regional County Municipality (RCM),160000,0
+La Rivière-du-Nord,La Rivière-du-Nord,Regional County Municipality (RCM),130000,0
+Saguenay,Ville de Saguenay,Municipality,150000,1
+Le Domaine-du-Roy,Le Domaine-du-Roy,Regional County Municipality (RCM),30000,0
+Lac-Saint-Jean-Est,Lac-Saint-Jean-Est,Regional County Municipality (RCM),50000,0
+"[Le Fjord-du-Saguenay,Maria-Chapdelaine]",Le Fjord-du-Saguenay & Maria-Chapdelaine,Regional County Municipality (RCM),45000,0
+Côte-Nord,Côte-Nord,Administative Region,90000,0
+Nord-du-Québec,Nord-du-Québec,Administative Region,45000,0
