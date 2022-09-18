@@ -91,7 +91,9 @@ Joliette (MRC),Joliette,Regional County Municipality (RCM),65000,0
 Matawinie,Matawinie,Regional County Municipality (RCM),50000,0
 Montcalm,Montcalm,Regional County Municipality (RCM),50000,1
 Les Moulins,Les Moulins,Regional County Municipality (RCM),160000,0
-Gatineau,Gatineau,Municipality,280000,0
+"[Gatineau,-Aylmer,-Hull]",Gatineau,Municipality,200000,0
+Hull,Hull,Municipality,70000,0
+Aylmer,Aylmer,Municipality,60000,0
 "[La Vallée-de-la-Gatineau,Pontiac]",Pontiac & La Vallée-de-la-Gatineau,Regional County Municipality (RCM),35000,0
 "[Les Collines-de-l'Outaouais,Papineau]",Papineau & Les Collines-de-l'Outaouais,Regional County Municipality (RCM),60000,0
 Abitibi-Témiscamingue,Abitibi-Témiscamingue,Administative Region,150000,0
