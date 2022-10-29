@@ -4,6 +4,7 @@ folium==0.12.1.post1
 geopandas==0.11.1
 geopy==2.2.0
 ipython==8.4.0
+joblib==1.1.0
 keras==2.9.0
 matplotlib==3.5.3
 numpy==1.23.2
